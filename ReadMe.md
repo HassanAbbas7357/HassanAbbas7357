@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web And Mobile Testing<br>👯 I’m looking to collaborate on software testing frameworks<br>🌱 I’m currently learning Cypress for Unit Testing<br>💬 Ask me about automation testing<br>⚡ Fun fact - I am lazy but smart<br><br>
+🔭 I’m currently working on Web, Mobile and SocketIO Testing<br>👯 I’m looking to collaborate on software testing frameworks<br>🌱 I’m currently learning Cypress for Unit Testing<br>💬 Ask me about automation testing<br>⚡ Fun fact - I am lazy but smart<br><br>
 
 
 ## 🌐 Socials:
